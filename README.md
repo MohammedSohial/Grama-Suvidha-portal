@@ -87,7 +87,4 @@ app/src/main/java/com/example/gramasuvidhaportal/
 ## THANKYOU
 
 
-* Create **PDR report content from this project automatically**
-* Or convert this into a **VTU project report format**
 
-Just tell 👍
